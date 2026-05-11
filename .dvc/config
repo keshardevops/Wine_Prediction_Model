@@ -1,0 +1,4 @@
+[core]
+    remote = mlopswork
+['remote "mlopswork"']
+    url = s3://keshardevops-mlops
